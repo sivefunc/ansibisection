@@ -1,0 +1,10 @@
+" https://en.wikipedia.org/wiki/Bisection_method#Example:_Finding_the_root_of_a_polynomial
+
+" Mandatory arguments "
+FUNCTION        -> x^3 - x - 2
+
+" Optional arguments "
+interval        -> [1, 2]  
+epsilon         -> 0.00001337
+round_digits    -> 7
+iterations      -> 15

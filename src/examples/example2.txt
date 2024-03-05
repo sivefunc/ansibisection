@@ -1,0 +1,9 @@
+" Mandatory arguments "
+FUNCTION        -> log(z^2) - cos(z^2 * 2) + z * 5
+
+" Optional arguments "
+" The interval will be generated"
+interval        -> [0.00001, 5]
+round_digits    -> 5
+epsilon         -> 0.00001
+iterations      -> 30

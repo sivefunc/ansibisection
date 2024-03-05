@@ -1,0 +1,7 @@
+" Mandatory arguments "
+FUNCTION        -> tan(sin(t)) + tan(cos(t))
+
+" Optional arguments "
+epsilon         -> 0.0000555
+round_digits    -> 7
+iterations      -> 15
